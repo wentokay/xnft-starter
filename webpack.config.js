@@ -8,9 +8,5 @@ module.exports = async function (env, argv) {
     config.plugins.push(new ReactRefreshWebpackPlugin());
   }
 
-  config.devServer = {
-    port: 9933,
-  };
-
   return config;
 };
