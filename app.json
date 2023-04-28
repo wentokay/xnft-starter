@@ -1,7 +1,6 @@
 {
   "expo": {
     "name": "xnft",
-    "slug": "xnft",
-    "port": 9933
+    "slug": "xnft"
   }
 }
