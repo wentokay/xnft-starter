@@ -1,4 +1,4 @@
-import { type PublicKey } from "@solana/web3.js";
+import { type PublicKey, type Transaction } from "@solana/web3.js";
 
 declare global {
   interface Window {
